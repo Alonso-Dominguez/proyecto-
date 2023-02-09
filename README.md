@@ -4,3 +4,4 @@ Repositorio para ver el progreso del proyecto
 |Dia|Descripcion|
 |--|--|
 |Dia 1|Programar|
+|Dia 3|Programar|
