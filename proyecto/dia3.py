@@ -11,3 +11,8 @@ resta= n1 - n2#operacion que se reañizara
 multi= n1 * n2#operacion que se reañizara
 division= n1 / n2#operacion que se reañizara
 print("Suma: ",suma, "Resta: ",resta, "Multiplicacion: ",multi, "Division: ",division)#resultados que mostrara al usuario
+
+print("{} + {} =".format(n1,n2),(n1 + n2))
+print("{} - {} =".format(n1,n2),(n1 - n2))
+print("{} * {} =".format(n1,n2),(n1 * n2))
+print("{} / {} =".format(n1,n2),(n1 / n2))
