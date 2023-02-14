@@ -8,3 +8,4 @@ Repositorio para ver el progreso del proyecto
 |Dia 4|Programar|
 |Dia 5|Programar|
 |Dia 6|Programar|
+|Dia 7|Programar|
