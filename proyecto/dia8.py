@@ -10,7 +10,7 @@ cumple=int(input())
 edad= año - cumple
 if año < 2023:
     print("Ingresar el año actual")
-elif cumple < 1950:
+elif cumple < 1930:
     print("Ingresar un año superior a 1950")
 elif año == 0:
     print(0)
