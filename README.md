@@ -13,3 +13,4 @@ Repositorio para ver el progreso del proyecto
 |Dia 9|Programar|
 |Dia 10|Programar|
 |Dia 11|Programar|
+|Dia 12|Programar|
