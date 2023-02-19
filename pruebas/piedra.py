@@ -18,14 +18,7 @@ while True:
     elif usuario == "tijeras" and pc =="papel":
        print("Gana el usuario")
     elif usuario == "papel" and pc == "piedra":
-       print("Gana el usuario")   
-    elif usuario == "tijeras" and pc == "piedra":
-       print("Gana PC") 
-    elif usuario == "papel" and pc == "tijeras":
-       print("Gana PC") 
-    elif usuario == "piedra" and pc == "papel":
-       print("Gana PC")    
+       print("Gana el usuario")
     else:
-        usuario == "fin"
-        print("Fin del juego")
-        break
+        print(f"\nPerdiste, {usuario} pierde contra {pc}")
+    print ("GAME OVER")
