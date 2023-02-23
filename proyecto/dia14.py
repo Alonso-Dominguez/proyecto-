@@ -1,5 +1,5 @@
 """
-Fecha: 20/02/23
+Fecha: 21/02/23
 Nombre: Jose Alonso Dominguez Castillo
 """
 print("Insertar partidos ganados")
