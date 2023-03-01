@@ -10,6 +10,8 @@ numpy = "^1.22.2"
 replit = "^3.2.4"
 Flask = "^2.2.0"
 urllib3 = "^1.26.12"
+datetime_periods = "^1.1.1"
+datetime2 = "^0.9.4"
 
 [tool.poetry.dev-dependencies]
 debugpy = "^1.6.2"

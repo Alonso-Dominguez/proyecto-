@@ -20,3 +20,4 @@ Repositorio para ver el progreso del proyecto
 |Dia 16|Programar|
 |Dia 17|Programar|
 |Dia 18|Programar|
+|Dia 19|Programar|
